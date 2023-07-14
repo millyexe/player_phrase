@@ -1,0 +1,14 @@
+h1 {
+    font-size: 30px;
+    color: black;
+  }
+  
+  .inspirationalPhrase {
+    font-size: 25px;
+    color: black;
+  }
+  
+  .welcome {
+    display: flex;
+    justify-content: center;
+  }
