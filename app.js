@@ -22,6 +22,17 @@ var phrases = [
   "You are worthy of happiness that transcends all boundaries and limitations.",
   "As you recognize your own worth, you unlock the door to lasting happiness.",
   "You are loved.",
+  "Embrace the love within yourself and watch it radiate into the world around you.",
+  "You are deserving of your own love and care, just as much as anyone else.",
+  "Celebrate the unique and beautiful individual that you are, and love yourself unconditionally.",
+  "Cherish your own heart and soul, for you are worthy of your own love and affection.",
+  "In the journey of self-discovery, learn to love every part of yourself, both light and dark.",
+  "Your love for yourself is a powerful force that can heal, transform, and inspire.",
+  "Nurture a deep and genuine love for yourself, and let it be the foundation of your happiness.",
+  "Treasure the person you are becoming and shower yourself with love every step of the way.",
+  "Your self-love is a beacon of light that attracts positivity, growth, and genuine connections.",
+  "Embrace self-love as an act of courage, and watch it ignite a beautiful transformation within you.",
+  "You deserve to be happy.",
   // Add more phrases
 ];
 
